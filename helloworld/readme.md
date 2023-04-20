@@ -1,2 +1,3 @@
-C11 o C12
+Compilador: VSC
+
 
