@@ -4,11 +4,5 @@
 int main()
 {
     printf("hola\n");
-    system("pause");
-
-    FILE*arch=fopen("out.txt","wt");
-    fputs("hello",arch);
-    fclose(arch);
-    
-    
+    system("pause");    
 }
